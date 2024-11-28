@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Souvik Sardar
 - 👀 I’m interested in Web Development and Problem Solving
-- 🌱 I’m currently learning DSA,WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...(EROR 404)
+- 🌱 I’m currently learning ReactJS
 - 📫 Can Mail me : souviksardar103@gmail.com
 
 <!---
